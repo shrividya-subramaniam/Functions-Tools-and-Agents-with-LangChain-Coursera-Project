@@ -1,6 +1,6 @@
 # Functions,Tools and Agents with LangChain Project (Coursera/DeepLearning.AI)
 
-This project explores the new advancements like ChatGPT’s function-calling capability and demonstrates how to build a conversational agent using a new syntax called LangChain Expression Language (LCEL) for tasks such as tagging, extraction, tool selection, and routing.
+This project explores the ChatGPT’s function-calling capability and demonstrates how to build a conversational agent using a new syntax called LangChain Expression Language (LCEL) for tasks such as tagging, extraction, tool selection, and routing.
 
 Key topics covered include:
 - Generating structured output, including function calls, using LLMs
